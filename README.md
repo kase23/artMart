@@ -1,0 +1,1 @@
+GraceShopper is an e-commerce web application that allows users to create accounts and shop for products.	The website has the ability to save user carts across any browser, filter products by category, and process payments through stripe checkout. Built using React/Redux.
